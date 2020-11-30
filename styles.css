@@ -1,0 +1,77 @@
+a{
+	color: #11999E;
+}
+
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+h1{
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625rem;
+	color: #66BFBF;
+	line-height: 0.8;
+	margin: 50px auto 0 auto;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+	color: #66BFBF;
+	font-size: 2rem;
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+}
+
+.code-img{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.chilly{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
+
+.my-pic{
+	height: 200px;
+	width: 200px;
+}
+.top-container{
+	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 170px;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+
+.bottom-cloud{
+	position: absolute;
+	left: 380px;
+	bottom: 300px;
+}
+
+.top-cloud{
+	position: absolute;
+	right: 400px;
+	top: 55px;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto;
+	line-height: 2;
+	text-align: left;
+}
